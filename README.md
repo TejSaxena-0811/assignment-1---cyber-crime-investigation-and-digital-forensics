@@ -1,6 +1,22 @@
-# Operation Hydra
+## Name: Tej Saxena
 
-Operation Hydra is a cybersecurity investigation repository designed to analyze multi-vector digital threats, including email phishing, malware payloads, and financial fraud networks. This project organizes raw evidence, technical artifacts, analysis scripts, and final reporting into a structured investigation framework.
+## Roll Number: 2301730297
+
+## Course: B.Tech CSE (AI-ML)
+
+## Semester: 7
+
+## Section: E
+
+## Subject: Cyber Crime and Digital Forensics Lab
+
+## Professor: Mr. Anuj Tiwari
+
+--------------------------------------------------------------------
+
+# Assignment 1
+
+This project is a cybersecurity investigation repository designed to analyze multi-vector digital threats, including email phishing, malware payloads, and financial fraud networks. This project organizes raw evidence, technical artifacts, analysis scripts, and final reporting into a structured investigation framework.
 
 ## Project Structure
 
