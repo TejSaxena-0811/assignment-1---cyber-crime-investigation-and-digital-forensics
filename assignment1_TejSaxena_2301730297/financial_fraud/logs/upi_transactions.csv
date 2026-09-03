@@ -1,0 +1,8 @@
+txn_id,timestamp,sender_upi,receiver_upi,amount_inr,status,device_ip
+T1001,2026-08-07 10:14:02,rmehta@okhdfcbank,unknown123@paytm,45000,SUCCESS,103.224.182.19
+T1002,2026-08-07 10:16:45,rmehta@okhdfcbank,mule_ac1@ybl,62500,SUCCESS,103.224.182.19
+T1003,2026-08-07 10:19:11,rmehta@okhdfcbank,mule_ac1@ybl,38000,SUCCESS,103.224.182.19
+T1004,2026-08-07 22:03:55,mule_ac1@ybl,cryptoxch_44@oksbi,140000,SUCCESS,45.148.10.77
+T1005,2026-08-08 03:11:20,mule_ac2@ybl,cryptoxch_44@oksbi,98000,SUCCESS,45.148.10.77
+T1006,2026-08-08 09:40:00,rmehta@okhdfcbank,mule_ac2@ybl,29500,SUCCESS,176.113.115.204
+T1007,2026-08-09 14:22:31,mule_ac1@ybl,mule_ac3@ibl,50000,SUCCESS,45.148.10.77

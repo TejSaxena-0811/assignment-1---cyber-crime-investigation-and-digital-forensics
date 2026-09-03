@@ -1,0 +1,4 @@
+tx_hash,timestamp,from_wallet,to_wallet,amount_btc,amount_inr_equiv,exchange
+0xSIMTX9f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d,2026-08-07 10:35:00,bc1qSIM_mule_wallet_a1,bc1qSIM_hydra_pool_01,0.42,140000,CryptoXCH (simulated)
+0xSIMTX8e2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7,2026-08-08 03:15:00,bc1qSIM_mule_wallet_a2,bc1qSIM_hydra_pool_01,0.29,98000,CryptoXCH (simulated)
+0xSIMTX7d3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8,2026-08-09 15:00:00,bc1qSIM_hydra_pool_01,bc1qSIM_mixer_exit_9,0.68,225000,Mixer Service (simulated)

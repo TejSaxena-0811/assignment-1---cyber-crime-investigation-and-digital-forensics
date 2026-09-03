@@ -1,0 +1,37 @@
+Return-Path: <hr-payroll@nimbuslogistics-hr.net>
+Delivered-To: employees@nimbuslogistics.example.com
+Received: from mailout-9.cheapbulkmail.biz (unknown [45.148.10.77])
+	by mx.nimbuslogistics.example.com with ESMTP id 12ee88af
+	for <employees@nimbuslogistics.example.com>; Wed, 05 Aug 2026 07:45:19 +0000
+Authentication-Results: mx.nimbuslogistics.example.com;
+	spf=softfail (sender IP is 45.148.10.77) smtp.mailfrom=nimbuslogistics-hr.net;
+	dkim=none;
+	dmarc=fail (p=none) header.from=nimbuslogistics.example.com
+From: "Nimbus HR Payroll" <hr-payroll@nimbuslogistics-hr.net>
+To: employees@nimbuslogistics.example.com
+Subject: Updated Salary Structure - Action Required by Friday
+Date: Wed, 05 Aug 2026 07:45:10 +0000
+Message-ID: <bb128e0a-0021@cheapbulkmail.biz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="_HYDRA_BOUNDARY_03_"
+X-Originating-IP: [45.148.10.77]
+
+--_HYDRA_BOUNDARY_03_
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Employee,
+
+Please find attached the revised salary structure effective this month.
+Kindly download, review, and confirm receipt by replying to this email.
+
+Regards,
+HR Payroll Team
+
+--_HYDRA_BOUNDARY_03_
+Content-Type: application/vnd.ms-excel.sheet.macroEnabled.12; name="Salary_Structure_Aug2026.xlsm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Salary_Structure_Aug2026.xlsm"
+
+UEsDBBQACAAIAJyKdVYAAAAAAAAAAAAAAAATAAAAeGwvd29ya2Jvb2sueG1s7VZda9sw
+[... simulated base64 attachment content truncated for this academic sample ...]
+--_HYDRA_BOUNDARY_03_--

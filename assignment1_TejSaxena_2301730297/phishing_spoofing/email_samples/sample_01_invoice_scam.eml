@@ -1,0 +1,43 @@
+Return-Path: <billing@secure-trustbank.co>
+Delivered-To: accounts@nimbuslogistics.example.com
+Received: from mail-relay-88.spoofnet-host.ru (unknown [185.220.101.47])
+	by mx.nimbuslogistics.example.com with ESMTP id 3f8a9c2d
+	for <accounts@nimbuslogistics.example.com>; Mon, 03 Aug 2026 09:12:41 +0000
+Received: from [10.0.0.14] by mail-relay-88.spoofnet-host.ru with SMTP id 991a
+	Mon, 03 Aug 2026 09:12:33 +0000
+Authentication-Results: mx.nimbuslogistics.example.com;
+	spf=fail (sender IP is 185.220.101.47) smtp.mailfrom=secure-trustbank.co;
+	dkim=none (message not signed) header.d=none;
+	dmarc=fail (p=reject sp=reject dis=none) header.from=securetrustbank.com
+From: "SecureTrust Bank - Billing" <billing@secure-trustbank.co>
+To: accounts@nimbuslogistics.example.com
+Subject: URGENT: Unpaid Invoice #INV-88213 - Account Suspension Notice
+Date: Mon, 03 Aug 2026 09:12:30 +0000
+Message-ID: <ffb2e9a1-4c7d@spoofnet-host.ru>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="_HYDRA_BOUNDARY_01_"
+X-Originating-IP: [185.220.101.47]
+X-Mailer: PHPMailer 5.2.9 (unpatched)
+
+--_HYDRA_BOUNDARY_01_
+Content-Type: text/html; charset="UTF-8"
+
+<html><body>
+<p>Dear Valued Customer,</p>
+<p>Your account has an <b>unpaid invoice of INR 1,84,320.00</b> which is now
+overdue. Failure to settle this within 24 hours will result in
+<b>suspension of your business banking services</b>.</p>
+<p>Please review and process the attached invoice immediately:
+<a href="http://secure-trustbank.co.paynow-verify.info/invoice/88213">
+Click here to Pay Now</a></p>
+<p>Regards,<br>SecureTrust Bank Billing Team</p>
+</body></html>
+
+--_HYDRA_BOUNDARY_01_
+Content-Type: application/vnd.ms-word.document.macroEnabled.12; name="Invoice_88213.docm"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Invoice_88213.docm"
+
+UEsDBBQACAAIAAAAIQAAAAAAAAAAAAAAAAALAAAAX3JlbHMvLnJlbHOtks1KAgAAAAAAAAAA
+[... simulated base64 attachment content truncated for this academic sample ...]
+--_HYDRA_BOUNDARY_01_--

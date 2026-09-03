@@ -1,0 +1,25 @@
+Return-Path: <tracking@bluedart-express.info>
+Delivered-To: accounts@nimbuslogistics.example.com
+Received: from smtp-out-4.rotating-proxy-farm.net (unknown [176.113.115.204])
+	by mx.nimbuslogistics.example.com with ESMTP id 55af90cc
+	for <accounts@nimbuslogistics.example.com>; Thu, 06 Aug 2026 11:30:02 +0000
+Authentication-Results: mx.nimbuslogistics.example.com;
+	spf=fail (sender IP is 176.113.115.204) smtp.mailfrom=bluedart-express.info;
+	dkim=none;
+	dmarc=fail (p=reject) header.from=bluedart.com
+From: "BlueDart Express" <tracking@bluedart-express.info>
+To: accounts@nimbuslogistics.example.com
+Subject: Delivery Failed - Package #BD991234521 Awaiting Customs Fee
+Date: Thu, 06 Aug 2026 11:29:58 +0000
+Message-ID: <c410ffde-7712@rotating-proxy-farm.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+X-Originating-IP: [176.113.115.204]
+
+<html><body>
+<p>Your package #BD991234521 could not be delivered due to a pending
+customs clearance fee of INR 349. Pay now to release your package:</p>
+<p><a href="http://bluedart-express.info.pay-customs-fee.click/pay">
+Pay Customs Fee</a></p>
+<p>BlueDart Express Logistics</p>
+</body></html>

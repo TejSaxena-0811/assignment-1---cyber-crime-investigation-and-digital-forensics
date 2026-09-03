@@ -1,0 +1,7 @@
+{
+  "185.220.101.47": {"abuse_score": 98, "country": "Unknown (Tor exit relay)", "isp": "SpoofNet Hosting", "reports": 412, "category": "Phishing / C2 relay"},
+  "103.224.182.19": {"abuse_score": 87, "country": "Vietnam", "isp": "FreeHost Asia VPS", "reports": 156, "category": "Phishing"},
+  "45.148.10.77": {"abuse_score": 74, "country": "Netherlands (bulletproof host)", "isp": "CheapBulkMail Networks", "reports": 89, "category": "Spam / Phishing"},
+  "176.113.115.204": {"abuse_score": 91, "country": "Russia", "isp": "Rotating Proxy Farm Ltd", "reports": 203, "category": "Phishing / Malware delivery"},
+  "41.203.88.12": {"abuse_score": 65, "country": "Nigeria", "isp": "Consumer broadband (compromised host suspected)", "reports": 34, "category": "Credential stuffing"}
+}

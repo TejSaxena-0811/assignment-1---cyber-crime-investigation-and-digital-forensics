@@ -1,0 +1,14 @@
+SHA-256 Hash Manifest - Operation Hydra
+Generated: 2026-09-01 04:01:01 UTC
+==================================================
+phishing_spoofing/email_samples/sample_01_invoice_scam.eml   011a29496443a3800f7a7e8c3610502126b2483ad6d9419fd0d939523a9cee4c
+phishing_spoofing/email_samples/sample_02_bank_alert.eml     40cb71f3d04be1e9e6a62a3d0783a8884101d0f83864364291c2a60cd1c761db
+phishing_spoofing/email_samples/sample_03_hr_payroll.eml     f650a850d00f17238d96f693d399589c2913ab8adbb4bb433a198705aaf36aa1
+phishing_spoofing/email_samples/sample_04_delivery_notice.eml d7ddab6b4da80450a56ac1173ba736337ff16fb775c46e5ac30c982a04ef4e64
+financial_fraud/logs/card_transactions.csv                   838380480ad670d54bae36414f2e5c27d768ed0ab0e58a868173ec73a0338c25
+financial_fraud/logs/crypto_wallet_activity.csv              c952e94fdbef0ba54738eef2d97604e61711e646c2826e52a2be86e63723c77c
+financial_fraud/logs/upi_transactions.csv                    636d02b521e48f80c4c8471a711c74bb58551cd3265cb5ea50fa03ac324b2a26
+malware_analysis/extracted_iocs.json                         1518ac05d81639c35b21e59e7fc06fd6c7a6484c326b1c70bb61001b19a11119
+malware_analysis/ioc_list.md                                 858fd8345188389ba684abc247e34906ad3cb6b5db56a36df28f39fd5d328de2
+malware_analysis/payload_simulated/behavior_description.md   7909de4d7fb162fb998f53cedccb89a8528937706767e1f35fb101ba09c7fb7c
+malware_analysis/sandbox_report.md                           79dc8868ea54b2c4e91340b179fa4fd96172fe24bd660b3ad2ae864b86a4378f

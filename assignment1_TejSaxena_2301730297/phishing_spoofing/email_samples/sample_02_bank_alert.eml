@@ -1,0 +1,27 @@
+Return-Path: <alerts@hdfcbank-secure.info>
+Delivered-To: r.mehta@nimbuslogistics.example.com
+Received: from vps-forwarder-12.freehost-asia.net (unknown [103.224.182.19])
+	by mx.nimbuslogistics.example.com with ESMTP id 7cd41a90
+	for <r.mehta@nimbuslogistics.example.com>; Tue, 04 Aug 2026 14:02:11 +0000
+Authentication-Results: mx.nimbuslogistics.example.com;
+	spf=fail (sender IP is 103.224.182.19) smtp.mailfrom=hdfcbank-secure.info;
+	dkim=fail (bad signature) header.d=hdfcbank-secure.info;
+	dmarc=fail (p=quarantine) header.from=hdfcbank.com
+From: "HDFC Bank Security" <alerts@hdfcbank-secure.info>
+To: r.mehta@nimbuslogistics.example.com
+Subject: Suspicious Login Detected - Verify Your Identity Now
+Date: Tue, 04 Aug 2026 14:02:05 +0000
+Message-ID: <a291bb7c-9911@freehost-asia.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+X-Originating-IP: [103.224.182.19]
+
+<html><body>
+<p>Dear Customer,</p>
+<p>We detected a login attempt from an unrecognized device
+(IP: 41.203.88.12, Lagos, Nigeria). If this was not you, verify your
+account immediately to prevent unauthorized access:</p>
+<p><a href="http://hdfcbank-secure.info.verify-id-portal.top/login">
+Verify My Account</a></p>
+<p>HDFC Bank Security Team</p>
+</body></html>
