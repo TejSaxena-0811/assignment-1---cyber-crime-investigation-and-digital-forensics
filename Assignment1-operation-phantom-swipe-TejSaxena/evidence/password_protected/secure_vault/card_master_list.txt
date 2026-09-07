@@ -1,0 +1,9 @@
+CONFIDENTIAL - CLONED CARD MASTER LIST (SIMULATED DUMMY DATA)
+================================================================
+Track2_Simulated | Expiry | CVV_Sim | Cardholder_Sim
+4532XXXXXXXX0011 | 09/28  | 000     | A. SHARMA (SIM)
+4532XXXXXXXX0022 | 11/27  | 000     | R. KHAN (SIM)
+5412XXXXXXXX0033 | 03/29  | 000     | S. MEHTA (SIM)
+4916XXXXXXXX0044 | 07/27  | 000     | P. VERMA (SIM)
+5299XXXXXXXX0055 | 01/28  | 000     | N. GUPTA (SIM)
+Note: All numbers are fabricated for academic simulation only, not real BIN ranges' full valid data.

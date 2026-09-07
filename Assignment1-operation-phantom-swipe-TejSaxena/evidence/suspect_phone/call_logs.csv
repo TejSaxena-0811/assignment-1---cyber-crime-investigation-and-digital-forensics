@@ -1,0 +1,8 @@
+call_id,timestamp,direction,number,duration_sec,contact_name
+1,2026-07-28 09:12:03,outgoing,+971-50-1234567,184,"Contact_UAE_01"
+2,2026-07-28 14:03:41,incoming,+91-98XXXXXX21,45,"Rider_Delhi"
+3,2026-07-29 22:18:09,outgoing,+971-50-1234567,312,"Contact_UAE_01"
+4,2026-07-30 03:41:55,outgoing,+91-70XXXXXX88,63,"Mule_Account_Handler"
+5,2026-08-01 11:05:00,incoming,+971-56-9876543,201,"Contact_UAE_02"
+6,2026-08-05 19:33:12,outgoing,+91-98XXXXXX21,29,"Rider_Delhi"
+7,2026-08-09 23:59:47,outgoing,+971-50-1234567,415,"Contact_UAE_01"

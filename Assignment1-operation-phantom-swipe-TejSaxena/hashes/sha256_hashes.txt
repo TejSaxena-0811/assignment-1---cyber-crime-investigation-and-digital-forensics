@@ -1,0 +1,11 @@
+SHA-256 Hash Manifest - Operation Phantom Swipe
+Generated: 2026-08-18 04:13:53 UTC
+==================================================
+evidence/password_protected/secure_vault.zip                           984b2536a96e639f6931f116a3a3dcd2bfeabdd21298e87ca77aea9c4580d08f
+evidence/skimmer_device/device_metadata.txt                            7d6b015b8087a596841851ea92ad5fd946551abba31aee639674194b96f061e3
+evidence/skimmer_device/skimmer_memory_dump.img                        edfb1f5dc64492d0529fc74b3e7c6d7baeeeb18541939e3771beadd1f6e8db33
+evidence/suspect_phone/apps/CardGenPro_v3.apk                          fd3efd8b35ad443212cd654fd98a270c4cedc281f2e7837036ea185c04c31c9d
+evidence/suspect_phone/apps/FakeBankLogin_v1.apk                       ec4fdacd3dacabebc7e15f4c5340501aaada1e68fa1e282eb5475693444bf43c
+evidence/suspect_phone/call_logs.csv                                   b231b4b15beadd22ae15d795d57af9ae23ada24be7972229b4fb18c2f3dc5b09
+evidence/suspect_phone/gps_logs.csv                                    a2c4fe8053c289fdcaf940f56c94dd550656fad9cb689cf82a444b58a4937f90
+evidence/suspect_phone/sms_logs.csv                                    fa9fcdcd68f72a674e613507926dfa92aa5e7005cd8d582b131ada304b9432e7

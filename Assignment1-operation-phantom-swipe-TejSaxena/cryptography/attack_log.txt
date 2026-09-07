@@ -1,0 +1,15 @@
+[2026-08-18 04:13:37] === Dictionary Attack Simulation Started ===
+[2026-08-18 04:13:37] Target exhibit (forensic copy): forensic_copy/secure_vault_COPY.zip
+[2026-08-18 04:13:37] Target SHA-256 (pre-attack, integrity baseline): 984b2536a96e639f6931f116a3a3dcd2bfeabdd21298e87ca77aea9c4580d08f
+[2026-08-18 04:13:37] Wordlist: wordlist_custom.txt
+[2026-08-18 04:13:37] Loaded 15 candidate passwords.
+[2026-08-18 04:13:37] Attempt 1: 'password' -> FAILED
+[2026-08-18 04:13:37] Attempt 2: '123456' -> FAILED
+[2026-08-18 04:13:37] Attempt 3: 'skimmer1' -> FAILED
+[2026-08-18 04:13:37] Attempt 4: 'letmein' -> FAILED
+[2026-08-18 04:13:37] Attempt 5: 'qwerty123' -> FAILED
+[2026-08-18 04:13:37] Attempt 6: 'admin123' -> FAILED
+[2026-08-18 04:13:37] Attempt 7: 'skimmer123' -> SUCCESS
+[2026-08-18 04:13:37] Target SHA-256 (post-attack, integrity check): 984b2536a96e639f6931f116a3a3dcd2bfeabdd21298e87ca77aea9c4580d08f
+[2026-08-18 04:13:37] Integrity check PASSED - exhibit hash unchanged after attack.
+[2026-08-18 04:13:37] === RESULT: Password recovered = 'skimmer123' in 7 attempts, 0.0040s ===

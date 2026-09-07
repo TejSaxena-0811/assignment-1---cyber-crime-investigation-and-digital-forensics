@@ -1,0 +1,35 @@
+=== Forensic String Search Log - 2026-08-18 04:13:47 ===
+Target directory: evidence
+
+evidence/skimmer_device/skimmer_memory_dump.img | offset=0 | type=keyword_hit | match=SKIMMER
+evidence/skimmer_device/skimmer_memory_dump.img | offset=75 | type=keyword_hit | match=CLONE
+evidence/skimmer_device/device_metadata.txt | offset=79 | type=keyword_hit | match=Skimmer
+evidence/skimmer_device/device_metadata.txt | offset=654 | type=keyword_hit | match=skimmer
+evidence/suspect_phone/call_logs.csv | offset=92 | type=phone_number | match=+971-50-1234567
+evidence/suspect_phone/call_logs.csv | offset=223 | type=phone_number | match=+971-50-1234567
+evidence/suspect_phone/call_logs.csv | offset=363 | type=phone_number | match=+971-56-9876543
+evidence/suspect_phone/call_logs.csv | offset=494 | type=phone_number | match=+971-50-1234567
+evidence/suspect_phone/call_logs.csv | offset=310 | type=keyword_hit | match=Mule
+evidence/suspect_phone/gps_logs.csv | offset=73 | type=gps_coordinate | match=28.4089
+evidence/suspect_phone/gps_logs.csv | offset=81 | type=gps_coordinate | match=77.3178
+evidence/suspect_phone/gps_logs.csv | offset=153 | type=gps_coordinate | match=28.4089
+evidence/suspect_phone/gps_logs.csv | offset=161 | type=gps_coordinate | match=77.3178
+evidence/suspect_phone/gps_logs.csv | offset=242 | type=gps_coordinate | match=28.4595
+evidence/suspect_phone/gps_logs.csv | offset=250 | type=gps_coordinate | match=77.0266
+evidence/suspect_phone/gps_logs.csv | offset=315 | type=gps_coordinate | match=28.5562
+evidence/suspect_phone/gps_logs.csv | offset=323 | type=gps_coordinate | match=77.1000
+evidence/suspect_phone/gps_logs.csv | offset=411 | type=gps_coordinate | match=28.4595
+evidence/suspect_phone/gps_logs.csv | offset=419 | type=gps_coordinate | match=77.0266
+evidence/suspect_phone/gps_logs.csv | offset=365 | type=keyword_hit | match=cash-out
+evidence/suspect_phone/sms_logs.csv | offset=405 | type=phone_number | match=+971-50-1234567
+evidence/suspect_phone/sms_logs.csv | offset=83 | type=keyword_hit | match=OTP
+evidence/suspect_phone/sms_logs.csv | offset=183 | type=keyword_hit | match=otp
+evidence/suspect_phone/sms_logs.csv | offset=244 | type=keyword_hit | match=OTP
+evidence/suspect_phone/sms_logs.csv | offset=336 | type=keyword_hit | match=otp
+evidence/suspect_phone/sms_logs.csv | offset=422 | type=keyword_hit | match=batch
+evidence/suspect_phone/sms_logs.csv | offset=445 | type=keyword_hit | match=clone
+evidence/suspect_phone/sms_logs.csv | offset=508 | type=keyword_hit | match=skimmer
+evidence/password_protected/secure_vault.zip | offset=437 | type=keyword_hit | match=cashout
+evidence/password_protected/secure_vault.zip | offset=888 | type=keyword_hit | match=cashout
+
+=== Summary: 8 files scanned, 30 pattern matches found ===

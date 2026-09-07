@@ -1,0 +1,12 @@
+DEVICE METADATA - EXHIBIT A
+============================
+Device Type: ATM Card Skimmer (overlay type, with pinhole camera module)
+Device ID (engraved): SKM-7734-XR
+Location Recovered: ATM vestibule, NCR Bank Branch, Sector 21, Faridabad, Haryana, India
+Date/Time of Seizure: 2026-08-10 22:40 IST
+Seizing Officer: Cyber Cell Investigator (Badge No. CC-1145)
+Physical Condition: Intact, minor adhesive residue on rear casing consistent with recent ATM mount
+Storage Medium: Onboard flash (128MB), removed and imaged via write-blocker
+Associated Exhibit: Micro-SD card (2GB) recovered from internal camera module - Exhibit A-1
+Notes: Device housing matches skimmer models previously seized in three prior cases across
+       Delhi-NCR (cross-referenced with Cyber Cell case DB, ref# CC/2026/0091, CC/2026/0114).

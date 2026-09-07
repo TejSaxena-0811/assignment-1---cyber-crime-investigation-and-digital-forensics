@@ -1,0 +1,7 @@
+sms_id,timestamp,direction,number,message
+1,2026-07-29 08:15:02,received,BK-ALERT,"OTP for txn INR 45,000 is 738291. Do not share."
+2,2026-07-29 08:15:40,sent,+91-70XXXXXX88,"got the otp forwarding now"
+3,2026-08-02 12:44:11,received,BK-ALERT,"OTP for txn INR 62,500 is 114420. Do not share."
+4,2026-08-02 12:44:55,sent,+91-70XXXXXX88,"otp: 114420 use fast card locks in 3 min"
+5,2026-08-06 21:02:30,sent,+971-50-1234567,"batch 4 ready 12 cards cloned pickup tmrw"
+6,2026-08-09 22:50:18,sent,+91-98XXXXXX21,"skimmer at sector21 branch, swap at 11pm"

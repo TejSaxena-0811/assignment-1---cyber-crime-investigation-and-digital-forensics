@@ -1,0 +1,6 @@
+log_id,timestamp,latitude,longitude,location_label
+1,2026-08-09 21:40:00,28.4089,77.3178,"Near NCR Bank ATM, Sector 21, Faridabad"
+2,2026-08-09 22:40:00,28.4089,77.3178,"NCR Bank ATM, Sector 21, Faridabad (dwell 60min)"
+3,2026-08-10 01:15:22,28.4595,77.0266,"Rented flat, Sector 15, Gurugram"
+4,2026-08-11 10:02:11,28.5562,77.1000,"IGI Airport Cargo Rd, New Delhi (cash-out contact meet)"
+5,2026-08-12 20:05:44,28.4595,77.0266,"Rented flat, Sector 15, Gurugram"

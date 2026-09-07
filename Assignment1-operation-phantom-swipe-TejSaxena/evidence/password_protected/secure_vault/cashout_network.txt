@@ -1,0 +1,6 @@
+CONFIDENTIAL - CASH-OUT NETWORK NOTES (SIMULATED DUMMY DATA)
+================================================================
+Mule Account 1: XXXXXX4432 (Delhi NCR) - handler +91-70XXXXXX88
+Mule Account 2: XXXXXX8810 (Gurugram) - handler +91-98XXXXXX21
+Overseas contact: +971-50-1234567 (UAE) - coordinates card blanks + cash pickup
+Overseas contact: +971-56-9876543 (UAE) - secondary, forex conversion
